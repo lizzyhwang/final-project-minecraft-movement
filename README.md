@@ -1,6 +1,6 @@
 ## Minecraft Movement
 
-## YouTube/Dropbox/Drive Link: https://youtu.be/rzgyrUQkTmg
+## Demo and Codewalk: https://youtu.be/rzgyrUQkTmg
 
 <img src="./src/media/header.png">
 
