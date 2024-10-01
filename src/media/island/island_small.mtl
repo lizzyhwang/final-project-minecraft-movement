@@ -1,0 +1,252 @@
+# Blender 3.3.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Cobblestone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd /Users/lizzy/Downloads/floating-island/source/Mineways2Skfb_obj/Mineways2Skfb-RGBA.png
+
+newmtl Cobblestone_Stairs
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Cobblestone_Wall
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Dandelion
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Dirt
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Fence
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Glass
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Glass_Pane
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Glowstone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_Ke Mineways2Skfb-RGBA.ppm
+
+newmtl Grass
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Grass_Block
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Gravel
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Lily_Pad
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Oak_Door
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Oak_Leaves
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Oak_Log
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Oak_Planks
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Oak_Pressure_Plate
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Oak_Slab
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Poppy
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Sand
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Sandstone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Spruce_Stairs
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
+
+newmtl Stationary_Water
+Ns 0.000000
+Ka 0.200000 0.200000 0.200000
+Ks 0.030000 0.030000 0.030000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd Mineways2Skfb-RGBA.ppm
+map_d Mineways2Skfb-RGBA.ppm
+
+newmtl Stone
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Mineways2Skfb-RGBA.ppm
